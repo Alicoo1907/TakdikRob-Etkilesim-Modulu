@@ -1,0 +1,11 @@
+PyKinect2
+comtypes
+pygame
+opencv-python
+PyYAML
+tqdm
+matplotlib
+scipy
+torch
+torchvision
+numpy
